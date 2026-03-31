@@ -109,7 +109,7 @@ philosophy:
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8&exclude_repo=lvgl,dots-hyprland,LovyanGFX" alt="Top Languages" />
 </a>
 
 <br/><br/>
