@@ -105,12 +105,15 @@ philosophy:
 <div align="center">
 
 <a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD&include_all_commits=true" alt="Akash's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8&exclude_repo=lvgl,dots-hyprland,LovyanGFX" alt="Top Languages" />
-</a>
+
+**Primary Languages** _(based on [flxos-labs/flxos](https://github.com/flxos-labs/flxos) — main authored codebase)_
+
+![C++](https://img.shields.io/badge/C++-98.5%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-16%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![C](https://img.shields.io/badge/C-6.7%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+
 
 <br/><br/>
 
@@ -119,6 +122,7 @@ philosophy:
 </a>
 
 </div>
+
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━━━━━━━━ -->
 
