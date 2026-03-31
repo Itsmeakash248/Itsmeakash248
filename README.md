@@ -19,11 +19,13 @@
 ```yaml
 name: Akash
 role: Embedded Systems Engineer & Founder @ FlxOS Labs
-location: India 🇮🇳
+github: "@Itsmeakash248"
+member_since: "Sep 2023"
+open_to_work: true
 mission: "Microcontrollers deserve rich, intuitive, and visually stunning user interfaces."
 
 current_focus:
-  - 🔭 Building FlxOS — a modular embedded OS with a desktop-like shell
+  - 🔭 Building FlxOS — modular embedded OS for ESP32 with LVGL graphical interface
   - ⚡ High-performance UI/UX for resource-constrained devices using LVGL & C++
   - 🌱 Making embedded development more modular and accessible
 
@@ -89,25 +91,10 @@ philosophy:
 
 <div align="center">
 
-> **FlxOS** — A modular embedded operating system with a desktop-like shell,  
-> rich GUI applications, and a window manager — all running on microcontrollers.
+> **FlxOS** — A high-performance embedded operating system for ESP32,  
+> built on ESP-IDF with an LVGL-based graphical interface.
 >
-> `C++` · `LVGL` · `ESP-IDF` · `FreeRTOS` · `CMake`
-
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp; GitHub Trophies
-
-<div align="center">
-
-![commits](https://img.shields.io/badge/Total%20Commits-657%2B-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![prs](https://img.shields.io/badge/Pull%20Requests-95%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![repos](https://img.shields.io/badge/Repositories-5%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![stars](https://img.shields.io/badge/Stars%20Earned-4%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD&hide_title=false&include_all_commits=true" alt="Full GitHub Stats" />
+> `C++` · `LVGL` · `ESP-IDF` · `FreeRTOS` · `CMake` · `AGPL-3.0`
 
 </div>
 
@@ -118,7 +105,7 @@ philosophy:
 <div align="center">
 
 <a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD&include_all_commits=true" alt="Akash's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Itsmeakash248">
