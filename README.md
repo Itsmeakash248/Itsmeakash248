@@ -1,59 +1,192 @@
-# Hi there, I'm Akash 👋
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Founder+of+FlxOS+Labs;Lead+Embedded+Architect;Building+the+Future+of+RTOS;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-### 🚀 About Me
-
-I am a passionate **Embedded Systems Engineer** and the founder of **[FlxOS Labs](https://github.com/flxos-labs)**. My mission is to prove that microcontrollers deserve rich, intuitive, and visually stunning user interfaces. 
-
-- 🛠️ Currently developing **[FlxOS](https://github.com/flxos-labs/flxos)**, a modular embedded OS with a desktop-like shell.
-- 💡 Specialized in high-performance UI/UX for resource-constrained devices using **LVGL** and **C++**.
-- 🌍 Open-source advocate building tools to make embedded development more modular and accessible.
-
----
-
-### 🛠️ Tech Stack
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:9D4EDD&height=230&section=header&text=Akash&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Founder%20of%20FlxOS%20Labs%20%E2%80%A2%20Embedded%20Systems%20Architect&descAlignY=55&descSize=18&animation=fadeIn)
 
 <div align="center">
 
-| **Embedded & Systems** | **Languages & Tools** | **Web & Scripting** |
-| :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| ![LVGL](https://img.shields.io/badge/LVGL-013147?style=for-the-badge&logo=lvgl&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+rich+UIs+for+microcontrollers+%F0%9F%94%A5;Crafting+the+future+of+embedded+OS+%F0%9F%9A%80;Open+Source+%7C+RTOS+%7C+LVGL+%7C+C%2B%2B+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Itsmeakash248?logo=github&style=for-the-badge&color=9D4EDD&labelColor=0d1117)](https://github.com/Itsmeakash248?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Itsmeakash248?logo=github&style=for-the-badge&color=9D4EDD&labelColor=0d1117)](https://github.com/Itsmeakash248?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=Itsmeakash248&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS)
 
 </div>
 
----
+<!-- ━━━━━━━━━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━━━━━━━━━ -->
 
-### 📊 GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp; About Me
+
+```yaml
+name: Akash
+role: Embedded Systems Engineer & Founder @ FlxOS Labs
+location: India 🇮🇳
+mission: "Microcontrollers deserve rich, intuitive, and visually stunning user interfaces."
+
+current_focus:
+  - 🔭 Building FlxOS — a modular embedded OS with a desktop-like shell
+  - ⚡ High-performance UI/UX for resource-constrained devices using LVGL & C++
+  - 🌱 Making embedded development more modular and accessible
+
+philosophy:
+  - Open Source Advocate
+  - Hardware meets Beautiful Software
+  - Performance without Compromise
+```
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp; Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=tokyonight&count_private=true" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" />
+
+### ⚙️ Embedded & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,linux,bash&theme=dark" alt="Embedded & Systems" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode&theme=dark" alt="Tools & DevOps" />
+</p>
+
+### 🌐 Web & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,md&theme=dark" alt="Web & Scripting" />
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/LVGL-013147?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIj5MVjwvdGV4dD48L3N2Zz4=&logoColor=white" alt="LVGL" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHRleHQgeD0iMiIgeT0iMTgiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIj5SVDwvdGV4dD48L3N2Zz4=&logoColor=white" alt="FreeRTOS" />
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsmeakash248&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━ FLAGSHIP PROJECT ━━━━━━━━━━━━━━━━━━━━━ -->
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp; Flagship Project
 
-### 🌐 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://flxos-labs.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-website-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/Itsmeakash248">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://github.com/flxos-labs/flxos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flxos-labs&repo=flxos&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS" />
+</a>
 
-<p align="center">
-  <i>"Microcontrollers deserve rich, intuitive user interfaces."</i>
-</p>
+</div>
+
+<div align="center">
+
+> **FlxOS** — A modular embedded operating system with a desktop-like shell,  
+> rich GUI applications, and a window manager — all running on microcontrollers.
+>
+> `C++` · `LVGL` · `ESP-IDF` · `FreeRTOS` · `CMake`
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp; GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Itsmeakash248&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp; GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Itsmeakash248">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Itsmeakash248">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Itsmeakash248">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsmeakash248&theme=radical&background=0d1117&border=30363d&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="30" /> &nbsp; Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itsmeakash248&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&hide_border=true)](https://github.com/Itsmeakash248)
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ SNAKE ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp; Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsmeakash248/Itsmeakash248/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsmeakash248/Itsmeakash248/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Itsmeakash248/Itsmeakash248/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" /> &nbsp; Connect with Me
+
+<div align="center">
+
+<a href="https://flxos-labs.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_FlxOS_Labs-Website-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="Website" />
+</a>
+&nbsp;
+<a href="https://github.com/flxos-labs" target="_blank">
+  <img src="https://img.shields.io/badge/🏢_FlxOS_Labs-Organization-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="Organization" />
+</a>
+&nbsp;
+<a href="https://github.com/Itsmeakash248" target="_blank">
+  <img src="https://img.shields.io/badge/👤_Akash-Profile-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Microcontrollers deserve rich, intuitive user interfaces."    ║
+║                                                    — Akash       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━ -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:1a1b27,100:0d1117&height=120&section=footer)
