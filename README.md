@@ -82,7 +82,7 @@ philosophy:
 <div align="center">
 
 <a href="https://github.com/flxos-labs/flxos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flxos-labs&repo=flxos&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=flxos-labs&repo=flxos&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS" />
 </a>
 
 </div>
@@ -102,7 +102,12 @@ philosophy:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itsmeakash248&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![commits](https://img.shields.io/badge/Total%20Commits-657%2B-9D4EDD?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![prs](https://img.shields.io/badge/Pull%20Requests-95%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![repos](https://img.shields.io/badge/Repositories-5%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![stars](https://img.shields.io/badge/Stars%20Earned-4%2B-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD&hide_title=false&include_all_commits=true" alt="Full GitHub Stats" />
 
 </div>
 
@@ -113,11 +118,11 @@ philosophy:
 <div align="center">
 
 <a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Itsmeakash248">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Itsmeakash248&layout=compact&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&text_color=c9d1d9&hide=html&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/><br/>
