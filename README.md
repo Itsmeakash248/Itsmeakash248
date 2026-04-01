@@ -172,14 +172,7 @@ philosophy:
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Microcontrollers deserve rich, intuitive user interfaces."    ║
-║                                                    — Akash       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:9D4EDD&height=110&section=header&text=Microcontrollers%20deserve%20rich,%20intuitive%20user%20interfaces.&fontColor=ffffff&fontSize=22&animation=fadeIn" alt="quote" />
 
 </div>
 
