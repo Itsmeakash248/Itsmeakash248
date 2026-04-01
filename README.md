@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+rich+UIs+for+microcontrollers+%F0%9F%94%A5;Crafting+the+future+of+embedded+OS+%F0%9F%9A%80;Open+Source+%7C+RTOS+%7C+LVGL+%7C+C%2B%2B+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+rich+UIs+for+microcontrollers+%F0%9F%94%A5;Crafting+the+future+of+embedded+OS+%F0%9F%9A%80;Open+Source+%7C+RTOS+%7C+LVGL+%7C+C%2B%2B+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
