@@ -110,9 +110,7 @@ philosophy:
 
 **Primary Languages** _(based on [flxos-labs/flxos](https://github.com/flxos-labs/flxos) — main authored codebase)_
 
-![C++](https://img.shields.io/badge/C++-98.5%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-16%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![C](https://img.shields.io/badge/C-6.7%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-75.2%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117) ![Python](https://img.shields.io/badge/Python-12.1%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117) ![C](https://img.shields.io/badge/C-5.1%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
 
 
 <br/><br/>
