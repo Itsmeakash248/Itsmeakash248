@@ -35,6 +35,19 @@ philosophy:
   - Performance without Compromise
 ```
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━ NOW PLAYING ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30" /> &nbsp; Now Playing
+
+<div align="center">
+
+<!-- 🎵 NOTE: To activate your live Spotify status, go to https://spotify-github-profile.vercel.app/, log in with Spotify, and replace "YOUR_UID_HERE" with your actual UID! -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID_HERE&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
+</a>
+
+</div>
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp; Tech Arsenal
@@ -143,6 +156,16 @@ philosophy:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsmeakash248/Itsmeakash248/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Itsmeakash248/Itsmeakash248/output/github-snake.svg" />
 </picture>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ QUOTE OF THE DAY ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30" /> &nbsp; Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 
 </div>
 
