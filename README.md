@@ -25,9 +25,10 @@ open_to_work: true
 mission: "Microcontrollers deserve rich, intuitive, and visually stunning user interfaces."
 
 current_focus:
-  - 🔭 Building FlxOS — modular embedded OS for ESP32 with LVGL graphical interface
+  - 🔭 Building FlxOS — modular embedded OS spanning ESP32 to Desktop horizontals
   - ⚡ High-performance UI/UX for resource-constrained devices using LVGL & C++
-  - 🌱 Making embedded development more modular and accessible
+  - 🌐 Designing premium web applications (Next.js 16, React 19, Tailwind CSS v4, Gemini API)
+  - 🌱 Making embedded development more modular, unified, and accessible
 
 philosophy:
   - Open Source Advocate
@@ -53,7 +54,7 @@ philosophy:
 
 ### 🌐 Web & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,md&theme=dark" alt="Web & Scripting" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,vite,firebase,html,css,md&theme=dark" alt="Web & Scripting" />
 </p>
 
 <br/>
@@ -67,34 +68,44 @@ philosophy:
       <img src="https://img.shields.io/badge/LVGL-013147?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIj5MVjwvdGV4dD48L3N2Zz4=&logoColor=white" alt="LVGL" />
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIi8+PHRleHQgeD0iMiIgeT0iMTgiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIj5SVDwvdGV4dD48L3N2Zz4=&logoColor=white" alt="FreeRTOS" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
 </table>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━ FLAGSHIP PROJECT ━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━ FEATURED PROJECTS ━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp; Flagship Project
-
-<div align="center">
-
-<a href="https://github.com/flxos-labs/flxos">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=flxos-labs&repo=flxos&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS" />
-</a>
-
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp; Featured Projects
 
 <div align="center">
 
-> **FlxOS** — A high-performance embedded operating system for ESP32,  
-> built on ESP-IDF with an LVGL-based graphical interface.
->
-> `C++` · `LVGL` · `ESP-IDF` · `FreeRTOS` · `CMake` · `AGPL-3.0`
+<table border="0" cellpadding="10">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/flxos-labs/flxos">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=flxos-labs&repo=flxos&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS" />
+      </a>
+      <br/>
+      <strong>FlxOS</strong>
+      <br/>
+      <small>Modular, profile-driven embedded OS for ESP32 featuring rich graphical stacks using C++ and LVGL.</small>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/flxos-labs/flxos-labs.github.io">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=flxos-labs&repo=flxos-labs.github.io&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="FlxOS Labs" />
+      </a>
+      <br/>
+      <strong>FlxOS Labs Showcase</strong>
+      <br/>
+      <small>Premium showcase landing page & docs built with Next.js 16 (App Router) & Tailwind CSS v4.</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -108,9 +119,15 @@ philosophy:
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Itsmeakash248&show_icons=true&theme=radical&bg_color=0d1117&border_color=30363d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&count_private=true&hide_border=false&ring_color=9D4EDD" alt="Akash's GitHub Stats" />
 </a>
 
-**Primary Languages** _(based on [flxos-labs/flxos](https://github.com/flxos-labs/flxos) — main authored codebase)_
+**Languages & Frameworks**
 
-![C++](https://img.shields.io/badge/C++-75.2%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117) ![Python](https://img.shields.io/badge/Python-12.1%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117) ![C](https://img.shields.io/badge/C-5.1%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white&labelColor=0d1117)
 
 
 <br/><br/>
